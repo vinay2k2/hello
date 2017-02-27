@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-print "hello"
+printf "Apple\n"
