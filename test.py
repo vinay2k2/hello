@@ -1,2 +1,4 @@
 #!/usr/bin/env bash
-printf "Apple\n"
+outref=open("output.txt","w")
+outref.write("Ansible Output test")
+outref.close()
